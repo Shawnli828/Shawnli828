@@ -21,9 +21,9 @@
   **Pingjie Cultural Media Co., Ltd**  
   **April 2021 – March 2023** | Ningbo
 
-  ---
+---
 
-  📫 **Get in touch**  
+📫 **Get in touch**  
 - Email: Seanli.zizhan@outlook.com  
 
 
