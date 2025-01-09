@@ -27,3 +27,4 @@
 - Email: Seanli.zizhan@outlook.com  
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shawnli828&show_icons=true&theme=radical)
