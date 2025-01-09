@@ -7,8 +7,8 @@
 ---
 
 🛠️ **Skills & Tools**
-- **Languages**: Python, SQL
-- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Languages**: ![Badge](https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white) ![Badge](https://img.shields.io/badge/Language-SQL-lightgrey?logo=database&logoColor=blue) 
+- **Databases**: ![Badge](https://img.shields.io/badge/Database-MySQL-blue) ![Badge](https://img.shields.io/badge/Database-PostgreSQL-lightblue) ![Badge](https://img.shields.io/badge/Database-MongoDB-green)
 
 ---
 
@@ -21,4 +21,9 @@
   **Pingjie Cultural Media Co., Ltd**  
   **April 2021 – March 2023** | Ningbo
 
-![Badge](https://img.shields.io/badge/Language-Python-blue)
+  ---
+
+  📫 **Get in touch**  
+- Email: Seanli.zizhan@outlook.com  
+
+
